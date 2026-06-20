@@ -1,8 +1,6 @@
 .env.local
 .env.server
-coze-proxy.log
-coze-proxy.err
-vite-dev.log
-vite-dev.err
+*.log
+*.err
 dist/
 node_modules/
